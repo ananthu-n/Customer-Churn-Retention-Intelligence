@@ -1,0 +1,12 @@
+# Customer Churn Prediction and Retention Intelligence System
+# Requirements file — install with: pip install -r requirements.txt
+
+pandas>=1.5.0
+numpy>=1.23.0
+scikit-learn>=1.2.0
+streamlit>=1.28.0
+plotly>=5.15.0
+matplotlib>=3.6.0
+xgboost>=1.7.0
+shap>=0.42.0
+joblib>=1.2.0
